@@ -1,1 +1,3 @@
-None readme file
+My first readme
+Coding in Bash
+
